@@ -1,4 +1,4 @@
-Bowling Scoring System for BAE
+Bowling Scoring System
 ==========
 
 Requirements
